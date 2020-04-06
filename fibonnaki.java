@@ -4,8 +4,6 @@ package arraytwo;
 public class ArrayTwo {
 
     public static void main(String[] args) {
-        int c;
-        int b;
         int i = 0;
         int j = 1;
         int a ;
